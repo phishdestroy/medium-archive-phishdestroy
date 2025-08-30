@@ -1,8 +1,12 @@
 # 📖 Medium Archive — PhishDestroy
 
 <div align="center">
-  <img src="img.png" width="75%" alt="Repo Banner">
-  <p><strong>Phishing exposés banned by Medium. Preserved here.</strong></p>
+  <img src="image.png" width="60%" alt="Repo Banner">
+  <p><strong>Phishing exposés published on Medium. Banned. Preserved here.</strong></p>
+
+  <img src="https://img.shields.io/badge/Status-Account%20Banned-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Archive-Complete-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Phishing%20Reports-10K%2B-blue?style=for-the-badge">
 </div>
 
 ---
@@ -11,48 +15,40 @@
 
 <figure align="center">
   <img src="screen.png" width="50%">
-  <figcaption><i>@phishdestroy on Medium before takedown</i></figcaption>
+  <figcaption><i>PhishDestroy Medium account before ban</i></figcaption>
 </figure>
 
-The account was banned by Medium.  
-No proper export tools, no appeal, no explanation.  
+For more than a year, we submitted **lists with tens of thousands of phishing reports**.  
+Mostly **crypto airdrop scams with drainer scripts** that dominated search engines and took first positions.  
 
-- 📉 Original articles deleted  
-- 🖨️ Exported snapshot preserved here  
-- 🔮 Limited number of posts archived  
-- 🐭 Medium silently wiped the account
+Our own articles strictly followed Medium’s rules:  
+- 🔍 OSINT investigations  
+- 🌐 Domain analysis and registrar evidence  
+- ✅ No personal data, no violations  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72C2C&width=600&lines=Medium+bans+intelligence,+not+phishing.)
+We have nothing to hide — so here is an **almost full export of our account**, across all categories.  
+
+Medium, instead of supporting this work, chose to keep **AI-generated scam spam** published from thousands of unverified accounts.  
 
 ---
 
 ## 📂 Archive Contents
 
-| File / Folder   | Description                               |
-|-----------------|-------------------------------------------|
-| `index.html`    | Landing page of the archive               |
-| `posts/`        | Published posts and exposés               |
-| `bookmarks/`    | Saved links and references                |
-| `claps/`        | Acknowledged articles                     |
-| `profile/`      | Account profile metadata                  |
-| `screen.png`    | Screenshot of terminated account          |
-| `img.png`       | Repo banner image                         |
-
----
-
-## 📊 Data Export
-
-⬇️ Snapshot of the banned Medium account preserved.  
-Includes posts, bookmarks, highlights, and profile data.  
-All content structured for readability and preservation.
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F73B&width=435&lines=We+don%E2%80%99t+care.+We+scale.)
+| File / Folder   | Description                         |
+|-----------------|-------------------------------------|
+| `index.html`    | Landing page of the archive         |
+| `posts/`        | Published articles                  |
+| `bookmarks/`    | Saved links and references          |
+| `claps/`        | Acknowledged articles               |
+| `profile/`      | Account profile data                |
+| `screen.png`    | Screenshot of suspended account     |
+| `img.png`       | Repo banner image                   |
 
 ---
 
 ## 👨‍💻 Active Threat Channels
 
-The work continues daily across multiple platforms:
+The work continues daily across our main platforms:
 
 | Platform   | Feed / URL                                              |
 |------------|----------------------------------------------------------|
@@ -63,8 +59,8 @@ The work continues daily across multiple platforms:
 | 🦖 Database  | [`list.json`](https://github.com/phishdestroy/destroylist/blob/main/list.json) |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Medium%20Posts%20Archived-few-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Phishing%20Domains%20Blocked-100%25-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scam%20Domains-Blocked-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Work-Continues-orange?style=for-the-badge">
 </div>
 
 ---
@@ -73,19 +69,19 @@ The work continues daily across multiple platforms:
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738E9&width=460&lines=Phishing+dies.+We+multiply.)
 
-Banning names changes nothing.  
-Posts are restored, preserved, and multiplied.  
+Banning accounts doesn’t stop us.  
+Reports multiply. Data is preserved.  
+Your scam domains keep getting blocked.  
 
-Your scam domains still get blocked.  
 That’s not a threat — **that’s a guarantee.**
 
 ---
 
 ## 👮 Legal Notice
 
-- All data is public, OSINT-based, and threat-related only  
-- No personal or private information is included  
-- Published only for research, evidence, and digital preservation
+- All data is public and OSINT-based  
+- No personal/private information included  
+- Published only for research, evidence, and digital preservation  
 
 ---
 
