@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blocks - Medium Archive</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Share Tech Mono', monospace; background-color: #000; background-image: radial-gradient(circle at center, rgba(0, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0) 60%); overflow-x: hidden; }
+        .neon-text { color: #fff; text-shadow: 0 0 7px #0ff, 0 0 10px #0ff, 0 0 21px #0ff, 0 0 42px #0fa, 0 0 82px #0fa, 0 0 92px #0fa; animation: flicker 1.5s infinite alternate; }
+        .neon-box { border: 2px solid #0ff; background: rgba(0, 255, 255, 0.05); box-shadow: 0 0 10px #0ff, 0 0 20px #0ff inset; transition: all 0.3s ease-in-out; }
+        .neon-box:hover { background: rgba(0, 255, 255, 0.15); box-shadow: 0 0 15px #0ff, 0 0 30px #0ff inset; }
+        .content-box { border: 1px dashed rgba(0, 255, 255, 0.3); background: rgba(0, 255, 255, 0.03); }
+        .article-link { display: block; padding: 1rem; border-left: 4px solid #0ff; background: rgba(0, 255, 255, 0.05); transition: all 0.3s ease; text-decoration: none; color: #e0e0e0; }
+        .article-link:hover { background: rgba(0, 255, 255, 0.15); border-left-color: #fff; color: #fff; transform: translateX(5px); }
+        @keyframes flicker { 0%, 18%, 22%, 25%, 53%, 57%, 100% { text-shadow: 0 0 4px #0ff, 0 0 11px #0ff, 0 0 19px #0ff, 0 0 40px #0fa, 0 0 80px #0fa, 0 0 90px #0fa; } 20%, 24%, 55% { text-shadow: none; } }
+    </style>
+</head>
+<body class="text-white antialiased">
+    <div class="container mx-auto px-4 py-8 md:py-12 min-h-screen">
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-bold tracking-wider neon-text">Archived Blocks</h1>
+            <p class="mt-2 text-lg text-gray-400">// Banned Medium Archive</p>
+        </header>
+        <main class="w-full max-w-4xl mx-auto">
+            <div class="mb-8"><a href="index.html" class="neon-box inline-block py-2 px-4 rounded-lg text-cyan-300 font-bold">&lt;-- Back to Main Index</a></div>
+            <div class="content-box rounded-lg p-6 space-y-4"><a href="blocks\blocked-users-0001.html" class="article-link">blocked users 0001</a>
+</div>
+        </main>
+        <footer class="mt-16 text-center text-gray-500">
+            
+<div class="flex justify-center items-center space-x-3 mb-4">
+    <a href="https://t.me/PhishDestroyAlerts" target="_blank" class="neon-box py-1 px-3 rounded-md text-cyan-400 text-sm">Telegram</a>
+    <a href="https://phishdestroy.ghost.io/" target="_blank" class="neon-box py-1 px-3 rounded-md text-cyan-400 text-sm">Ghost</a>
+    <a href="https://mastodon.social/@phishdestroy" target="_blank" class="neon-box py-1 px-3 rounded-md text-cyan-400 text-sm">Mastodon</a>
+    <a href="https://x.com/Phish_Destroy" target="_blank" class="neon-box py-1 px-3 rounded-md text-cyan-400 text-sm">X (Twitter)</a>
+</div>
+
+            <p class="text-xs">&copy; 2025 PhishDestroy // Integrity over profit</p>
+        </footer>
+    </div>
+</body>
+</html>
