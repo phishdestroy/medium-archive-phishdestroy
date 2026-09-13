@@ -53,9 +53,8 @@ The work continues daily across our main platforms:
 | Platform   | Feed / URL                                              |
 |------------|----------------------------------------------------------|
 | 🐦 Twitter/X | [@Phish_Destroy](https://x.com/Phish_Destroy)          |
-| 🐤 Telegram  | [@PhishDestroyAlerts](https://t.me/PhishDestroyAlerts) |
+| 🐤 Telegram  | [@destroy_phish](https://t.me/destroy_phish) |
 | 🐼 Mastodon  | [@phishdestroy@mastodon.social](https://mastodon.social/@phishdestroy) |
-| 🌐 Ghost     | [phishdestroy.ghost.io](https://phishdestroy.ghost.io) |
 | 🦖 Database  | [`list.json`](https://github.com/phishdestroy/destroylist/blob/main/list.json) |
 
 <div align="center">
