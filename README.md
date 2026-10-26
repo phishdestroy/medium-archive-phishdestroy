@@ -5,7 +5,7 @@
   <p><strong>Phishing exposés published on Medium. Banned. Preserved here.</strong></p>
 
   <img src="https://img.shields.io/badge/Status-Account%20Banned-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Archive-Partial_Export-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Archive-Complete-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Phishing%20Reports-10K%2B-blue?style=for-the-badge">
 </div>
 
@@ -26,7 +26,7 @@ Our own articles strictly followed Medium’s rules:
 - 🌐 Domain analysis and registrar evidence  
 - ✅ No personal data, no violations  
 
-This repository preserves a **partial account export** across the categories listed below. The files are a historical snapshot; their presence does not establish that every article or interaction was recovered.  
+We have nothing to hide — so here is an **almost full export of our account**, across all categories.  
 
 Medium, instead of supporting this work, chose to keep **AI-generated scam spam** published from thousands of unverified accounts.  
 
@@ -34,17 +34,15 @@ Medium, instead of supporting this work, chose to keep **AI-generated scam spam*
 
 ## 📂 Archive Contents
 
-**[Browse the archive](https://phishdestroy.github.io/medium-archive-phishdestroy/)** · **[Read preserved posts](https://phishdestroy.github.io/medium-archive-phishdestroy/posts.html)**
-
 | File / Folder   | Description                         |
 |-----------------|-------------------------------------|
-| [index.html](index.html)    | Landing page of the archive         |
-| [posts/](posts/)        | Published articles                  |
-| [bookmarks/](bookmarks/)    | Saved links and references          |
-| [claps/](claps/)        | Acknowledged articles               |
-| [profile/](profile/)      | Account profile data                |
-| [screen.png](screen.png)    | Screenshot of suspended account     |
-| [image.png](image.png)       | Repo banner image                   |
+| `index.html`    | Landing page of the archive         |
+| `posts/`        | Published articles                  |
+| `bookmarks/`    | Saved links and references          |
+| `claps/`        | Acknowledged articles               |
+| `profile/`      | Account profile data                |
+| `screen.png`    | Screenshot of suspended account     |
+| `img.png`       | Repo banner image                   |
 
 ---
 
