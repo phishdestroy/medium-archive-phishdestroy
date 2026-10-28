@@ -5,7 +5,7 @@
   <p><strong>Phishing exposés published on Medium. Banned. Preserved here.</strong></p>
 
   <img src="https://img.shields.io/badge/Status-Account%20Banned-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Archive-Complete-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Archive-Preserved%20export-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Phishing%20Reports-10K%2B-blue?style=for-the-badge">
 </div>
 
